@@ -44,9 +44,8 @@
       </a>
       ,
       <a class="text-[#58a6ff] underline" href="#">
-       Javasript
+       Javascript
       </a>
-      ,
       , dan
       <a class="text-[#58a6ff] underline" href="#">
        Flutter
