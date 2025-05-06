@@ -87,15 +87,18 @@
 mengembangkan teknologi. Dengan pemahaman yang baik tentang pemrograman,
 pengembangan perangkat lunak, dan pengelolaan data, saya bertekad menciptakan
 solusi yang inovatif dan bermanfaat.
+     </p>
+     <p class="text-[13px]">
 Saya memiliki kemampuan menganalisis masalah dan menikmati tantangan, terutama
 dalam membuat aplikasi, merancang sistem, atau mengelola proyek IT. Saya juga
 memiliki keterampilan komunikasi yang baik, mudah bekerja sama dalam tim, dan
 selalu bersemangat untuk mempelajari hal baru agar tetap mengikuti perkembangan
 teknologi.
+     </p>
+     <p class="text-[13px]">
 Bagi saya, teknologi bukan sekadar alat, tetapi juga cara untuk membawa perubahan
 positif. Dengan motivasi yang kuat, saya siap terlibat dalam proyek-proyek yang
 membutuhkan kreativitas dan efisiensi.
-
      </p>
     </section>
     <hr class="border-[#30363d] mb-3"/>
