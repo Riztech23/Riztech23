@@ -2,7 +2,6 @@
  <head>
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
-   <!-- Right Content -->
     <h1 class="text-[#c9d1d9] font-bold text-[18px] mb-2">
      Hai, saya Riztech!
      <span class="inline-block">
