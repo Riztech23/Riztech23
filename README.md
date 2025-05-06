@@ -282,6 +282,11 @@ membutuhkan kreativitas dan efisiensi.
         <td class="py-1 px-2">
         </td>
        </tr>
+        <td class="border-r border-[#30363d] py-1 px-2">
+        </td>
+        <td class="border-r border-[#30363d] py-1 px-2">
+        </td>
+        <td class="border-r border-[#30363d] py-1 px-2">
       </tbody>
      </table>
     </section>
