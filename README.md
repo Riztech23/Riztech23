@@ -168,7 +168,10 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- .NET removed -->
+         <span class="inline-flex items-center gap-1 bg-[#357a38] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
+          <img alt="Python icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/6e078b26-8e40-432c-7da9-257b8f8035cf.jpg" width="12"/>
+          PYTHON
+         </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#336791] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
@@ -177,7 +180,10 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- Kubernetes removed -->
+         <span class="inline-flex items-center gap-1 bg-[#6e6e6e] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
+          <img alt="Kafka icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/41589b27-e99e-4a4a-8815-3b172fb083cc.jpg" width="12"/>
+          KAFKA
+         </span>
         </td>
         <td class="py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#222222] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
@@ -195,7 +201,6 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- Go removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#4db33d] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
@@ -204,10 +209,6 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#6e6e6e] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Kafka icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/41589b27-e99e-4a4a-8815-3b172fb083cc.jpg" width="12"/>
-          KAFKA
-         </span>
         </td>
         <td class="py-1 px-2">
         </td>
@@ -222,7 +223,6 @@ membutuhkan kreativitas dan efisiensi.
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- Redis removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
@@ -230,49 +230,6 @@ membutuhkan kreativitas dan efisiensi.
         </td>
        </tr>
        <tr class="border-b border-[#30363d]">
-        <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- React Native removed -->
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#357a38] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Python icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/6e078b26-8e40-432c-7da9-257b8f8035cf.jpg" width="12"/>
-          PYTHON
-         </span>
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="py-1 px-2">
-        </td>
-       </tr>
-       <tr class="border-b border-[#30363d]">
-        <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- Vue.js removed -->
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="py-1 px-2">
-        </td>
-       </tr>
-       <tr class="border-b border-[#30363d]">
-        <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- Angular removed -->
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="py-1 px-2">
-        </td>
-       </tr>
-       <tr>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#02569b] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
           <img alt="Flutter icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/088cb47a-9594-4d2e-8018-8fe12d50c6c5.jpg" width="12"/>
@@ -287,7 +244,6 @@ membutuhkan kreativitas dan efisiensi.
         </td>
         <td class="py-1 px-2">
         </td>
-       </tr>
       </tbody>
      </table>
     </section>
