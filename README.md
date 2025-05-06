@@ -201,15 +201,12 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <!-- Go removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#4db33d] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
           <img alt="MongoDB icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/e3ddb4f0-8e22-4b09-1730-baf6085c5637.jpg" width="12"/>
           MONGODB
          </span>
-        </td>
-        <td class="py-1 px-2">
         </td>
        </tr>
        <tr class="border-b border-[#30363d]">
