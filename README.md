@@ -224,6 +224,10 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
+         <span class="inline-flex items-center gap-1 bg-[#61dafb] text-black text-[9px] font-semibold rounded px-1.5 py-[1px]">
+          <img alt="Php icon" class="inline-block" height="12" src="https://img.icons8.com/parakeet/48/php.png" width="12"/>
+          PHP
+         </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
