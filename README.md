@@ -107,7 +107,7 @@ membutuhkan kreativitas dan efisiensi.
        Keahlian
       </span>
      </h2>
-   <table class="w-full border border-[#30363d] text-[11px] text-[#8b949e] table-fixed">
+  <table class="w-full border border-[#30363d] text-[11px] text-[#8b949e] table-fixed">
       <thead>
        <tr class="border-b border-[#30363d]">
         <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">
@@ -279,14 +279,15 @@ membutuhkan kreativitas dan efisiensi.
           FLUTTER
          </span>
         </td>
+        <td class="border-r border-[#30363d] py-1 px-2">
+        </td>
+        <td class="border-r border-[#30363d] py-1 px-2">
+        </td>
+        <td class="border-r border-[#30363d] py-1 px-2">
+        </td>
         <td class="py-1 px-2">
         </td>
        </tr>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
       </tbody>
      </table>
     </section>
