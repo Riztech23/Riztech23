@@ -3,7 +3,6 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
    <!-- Right Content -->
-   <main class="flex-1 bg-[#161b22] border border-[#30363d] rounded-md p-4 text-[13px] leading-relaxed scrollbar-thin overflow-auto">
     <p class="text-[#8b949e] mb-1">
      riztech /
      <span class="text-[#58a6ff]">
