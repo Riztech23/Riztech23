@@ -106,24 +106,15 @@ membutuhkan kreativitas dan efisiensi.
        Keahlian
       </span>
      </h2>
-  <table class="w-full border border-[#30363d] text-[11px] text-[#8b949e] table-fixed">
+ <table class="w-full border border-[#30363d] text-[11px] text-[#8b949e] table-fixed">
       <thead>
        <tr class="border-b border-[#30363d]">
-        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">
-         Frontend
-        </th>
-        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">
-         Backend
-        </th>
-        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">
-         Database
-        </th>
-        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">
-         Microservices &amp; Arsitektur
-        </th>
-        <th class="py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">
-         Version Control
-        </th>
+        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Frontend</th>
+        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Backend</th>
+        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Database</th>
+        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Microservices &amp; Arsitektur</th>
+        <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Version Control</th>
+        <th class="py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">UI/UX</th>
        </tr>
       </thead>
       <tbody>
@@ -152,10 +143,16 @@ membutuhkan kreativitas dan efisiensi.
           DOCKER
          </span>
         </td>
-        <td class="py-1 px-2">
+        <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#f05032] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
           <img alt="Git icon" class="inline-block" height="12" src="https://img.icons8.com/color/48/git.png" width="12"/>
           GIT
+         </span>
+        </td>
+        <td class="border-r border-[#30363d] py-1 px-2">
+         <span class="inline-flex items-center gap-1 bg-[#a259ff] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
+          <img alt="Figma icon" class="inline-block" height="12" src="https://img.icons8.com/ios-filled/50/ffffff/figma--v1.png" width="12"/>
+          FIGMA
          </span>
         </td>
        </tr>
@@ -184,11 +181,13 @@ membutuhkan kreativitas dan efisiensi.
           KAFKA
          </span>
         </td>
-        <td class="py-1 px-2">
+        <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#222222] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-         <img alt="Github icon" class="inline-block" height="12" src="https://img.icons8.com/fluency/48/github.png" width="12"/>
+          <img alt="Github icon" class="inline-block" height="12" src="https://img.icons8.com/fluency/48/github.png" width="12"/>
           GITHUB
          </span>
+        </td>
+        <td class="py-1 px-2">
         </td>
        </tr>
        <tr class="border-b border-[#30363d]">
@@ -214,6 +213,8 @@ membutuhkan kreativitas dan efisiensi.
         </td>
         <td class="py-1 px-2">
         </td>
+        <td>
+        </td>
        </tr>
        <tr class="border-b border-[#30363d]">
         <td class="border-r border-[#30363d] py-1 px-2">
@@ -229,6 +230,8 @@ membutuhkan kreativitas dan efisiensi.
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
         <td class="py-1 px-2">
+        </td>
+        <td>
         </td>
        </tr>
        <tr class="border-b border-[#30363d]">
@@ -246,6 +249,9 @@ membutuhkan kreativitas dan efisiensi.
         </td>
         <td class="py-1 px-2">
         </td>
+        <td>
+        </td>
+       </tr>
       </tbody>
      </table>
     </section>
