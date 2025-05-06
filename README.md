@@ -59,7 +59,7 @@
       <i class="fas fa-desktop text-[#3fb68b] text-[8px] mr-1">
       </i>
        Lihat situs linkedin pribadi saya di
-      <a class="text-[#58a6ff] underline" href=" https://www.linkedin.com/in/rizieq-fazari-616140343/" target="_blank">
+      <a class="text-[#58a6ff] underline" href="https://www.linkedin.com/in/rizieq-fazari-616140343/" target="_blank">
       https://www.linkedin.com/in/rizieq-fazari-616140343/
       </a>
      </li>
