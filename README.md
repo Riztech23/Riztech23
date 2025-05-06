@@ -3,12 +3,6 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
    <!-- Right Content -->
-    <p class="text-[#8b949e] mb-1">
-     riztech /
-     <span class="text-[#58a6ff]">
-      README.md
-     </span>
-    </p>
     <h1 class="text-[#c9d1d9] font-bold text-[18px] mb-2">
      Hai, saya Riztech!
      <span class="inline-block">
