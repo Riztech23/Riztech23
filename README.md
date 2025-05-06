@@ -60,7 +60,7 @@
       </i>
        Lihat situs linkedin pribadi saya di
       <a class="text-[#58a6ff] underline" href=" https://www.linkedin.com/in/rizieq-fazari-616140343/" target="_blank">
-      https://rizieq-fazari
+      https://www.linkedin.com/in/rizieq-fazari-616140343/
       </a>
      </li>
      <li>
