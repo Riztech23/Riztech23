@@ -279,12 +279,6 @@ membutuhkan kreativitas dan efisiensi.
           FLUTTER
          </span>
         </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-        </td>
         <td class="py-1 px-2">
         </td>
        </tr>
