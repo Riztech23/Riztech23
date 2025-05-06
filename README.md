@@ -164,18 +164,8 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#5c2d91] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          .NET
-         </span>
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#336791] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
           POSTGRESQL
-         </span>
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#326ce5] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          KUBERNETES
          </span>
         </td>
         <td class="py-1 px-2">
@@ -224,11 +214,6 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#d82c20] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          REDIS
-         </span>
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
         </td>
         <td class="py-1 px-2">
         </td>
@@ -253,11 +238,6 @@ membutuhkan kreativitas dan efisiensi.
        </tr>
        <tr class="border-b border-[#30363d]">
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#41b883] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          VUE.JS
-         </span>
-        </td>
-        <td class="border-r border-[#30363d] py-1 px-2">
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
@@ -267,11 +247,6 @@ membutuhkan kreativitas dan efisiensi.
         </td>
        </tr>
        <tr class="border-b border-[#30363d]">
-        <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#dd0031] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          ANGULAR
-         </span>
-        </td>
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
