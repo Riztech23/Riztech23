@@ -114,7 +114,7 @@ membutuhkan kreativitas dan efisiensi.
         <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Database</th>
         <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Microservices &amp; Arsitektur</th>
         <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">Version Control</th>
-        <th class="py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">UI/UX</th>
+        <th class="py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">UI/UX Design</th>
        </tr>
       </thead>
       <tbody>
