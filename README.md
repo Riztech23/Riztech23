@@ -107,7 +107,7 @@ membutuhkan kreativitas dan efisiensi.
        Keahlian
       </span>
      </h2>
-    <table class="w-full border border-[#30363d] text-[11px] text-[#8b949e] table-fixed">
+   <table class="w-full border border-[#30363d] text-[11px] text-[#8b949e] table-fixed">
       <thead>
        <tr class="border-b border-[#30363d]">
         <th class="border-r border-[#30363d] py-1 px-2 bg-[#0d1117] text-[#8b949e] font-normal">
@@ -168,10 +168,7 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#5c2d91] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt=".NET icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/c914bff0-7605-4c27-3c47-f1fcafffc57a.jpg" width="12"/>
-          .NET
-         </span>
+         <!-- .NET removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#336791] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
@@ -180,10 +177,7 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#326ce5] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Kubernetes icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/bad7a4f1-0bab-4818-9cce-1ee68bc55b4e.jpg" width="12"/>
-          KUBERNETES
-         </span>
+         <!-- Kubernetes removed -->
         </td>
         <td class="py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#222222] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
@@ -201,10 +195,7 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#3c873a] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Node.js icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/737ed4df-25d2-4998-f734-2b987768f6bd.jpg" width="12"/>
-          NODE.JS
-         </span>
+         <!-- Go removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#4db33d] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
@@ -229,16 +220,9 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#00add8] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Go icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/4b333f6a-4d79-4afe-861f-371dc75bc33e.jpg" width="12"/>
-          GO
-         </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#d82c20] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Redis icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/0d6f0b22-6913-4316-a3d7-734d39318d3f.jpg" width="12"/>
-          REDIS
-         </span>
+         <!-- Redis removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
@@ -247,10 +231,7 @@ membutuhkan kreativitas dan efisiensi.
        </tr>
        <tr class="border-b border-[#30363d]">
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#20232a] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="React Native icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/8f640107-d9b8-4dd3-9fb5-8044e860fd66.jpg" width="12"/>
-          REACT NATIVE
-         </span>
+         <!-- React Native removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#357a38] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
@@ -267,10 +248,7 @@ membutuhkan kreativitas dan efisiensi.
        </tr>
        <tr class="border-b border-[#30363d]">
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#41b883] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Vue.js icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/edc647af-0b37-4bc8-55d7-696dd399bff2.jpg" width="12"/>
-          VUE.JS
-         </span>
+         <!-- Vue.js removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
@@ -283,10 +261,7 @@ membutuhkan kreativitas dan efisiensi.
        </tr>
        <tr class="border-b border-[#30363d]">
         <td class="border-r border-[#30363d] py-1 px-2">
-         <span class="inline-flex items-center gap-1 bg-[#dd0031] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Angular icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/9e852518-2215-457e-6187-2efb613cd62d.jpg" width="12"/>
-          ANGULAR
-         </span>
+         <!-- Angular removed -->
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
         </td>
