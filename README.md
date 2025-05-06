@@ -201,6 +201,10 @@ membutuhkan kreativitas dan efisiensi.
          </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
+         <span class="inline-flex items-center gap-1 bg-[#f0db4f] text-black text-[9px] font-semibold rounded px-1.5 py-[1px]">
+          <img alt="Java icon" class="inline-block" height="12" src="https://storage.googleapis.com/a1aa/image/1cd194d2-9b07-4271-18b0-c8394438f955.jpg" width="12"/>
+          JAVA
+         </span>
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#4db33d] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
