@@ -44,12 +44,9 @@
       </a>
       ,
       <a class="text-[#58a6ff] underline" href="#">
-       Python
+       Javasript
       </a>
       ,
-      <a class="text-[#58a6ff] underline" href="#">
-       Golang
-      </a>
       , dan
       <a class="text-[#58a6ff] underline" href="#">
        Flutter
