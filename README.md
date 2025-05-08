@@ -151,7 +151,7 @@ membutuhkan kreativitas dan efisiensi.
         </td>
         <td class="border-r border-[#30363d] py-1 px-2">
          <span class="inline-flex items-center gap-1 bg-[#a259ff] text-white text-[9px] font-semibold rounded px-1.5 py-[1px]">
-          <img alt="Figma icon" class="inline-block" height="12" src="https://img.icons8.com/ios-filled/50/ffffff/figma--v1.png" width="12"/>
+          <img alt="Figma icon" class="inline-block" height="12" src="https://img.icons8.com/color/48/figma--v1.png" width="12"/>
           FIGMA
          </span>
         </td>
