@@ -9,7 +9,7 @@
      </span>
     </h1>
     <p class="text-[#8b949e] text-[11px] mb-3">
-     Seorang  Core Banking Enthusiast | UI/UX Enthusiast | Frontend Dev
+     Seorang  Core Banking Enthusiast | UI/UX Enthusiast | Frontend Dev | Backend Dev
      <span class="text-[#f0a500]">
       🧑‍💻
      </span>
